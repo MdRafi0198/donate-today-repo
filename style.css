@@ -56,3 +56,50 @@ h1 {
     background-color: beige;
     border: rgb(168, 69, 45) solid 3px;
 }
+
+.other-amount {
+    color: darkgray;
+    padding-left: 10px;
+}
+
+.our-donate-plan {
+    text-align: center;
+}
+
+.donate-for-all {
+    width: auto;
+    display: flex;
+    margin: 5%;
+}
+
+.food-for-family {
+    width: 25%;
+    background-color: rgba(127, 255, 212, 0.322);
+    text-align: left;
+    padding: 5px;
+    margin-left: 3%;
+    margin-right: 3%;
+}
+
+.shelter-for-family {
+    width: 25%;
+    background-color: rgba(190, 133, 183, 0.342);
+    text-align: left;
+    padding: 10px;
+    margin-left: 3%;
+    margin-right: 3%;
+}
+
+.education-for-family {
+    width: 25%;
+    background-color: rgba(194, 164, 108, 0.5);
+    text-align: left;
+    padding: 10px;
+    margin-left: 3%;
+    margin-right: 3%;
+}
+
+.get-update {
+    text-align: center;
+
+}
