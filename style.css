@@ -60,6 +60,11 @@ h1 {
 .other-amount {
     color: darkgray;
     padding-left: 10px;
+
+}
+
+#hr-tag {
+    width: 50%;
 }
 
 .our-donate-plan {
@@ -101,5 +106,40 @@ h1 {
 
 .get-update {
     text-align: center;
+
+}
+
+.email-box {
+    padding: 20px;
+    text-align: center;
+    background-color: antiquewhite;
+    width: 40%;
+    margin-right: 20%;
+    margin-left: 30%;
+    border-radius: 5px;
+    text-decoration: none;
+}
+
+#email-button {
+    text-align: center;
+    text-decoration: none;
+    background-color: rgba(143, 57, 25, 0.973);
+    border: 5px;
+    color: white;
+    margin-left: -5px;
+}
+
+#footer {
+    text-align: center;
+    background-color: black;
+    margin-top: 10px;
+}
+
+#be-humble {
+    color: red;
+}
+
+#do-it {
+    color: white;
 
 }
