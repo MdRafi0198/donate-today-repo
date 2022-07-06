@@ -111,17 +111,17 @@ h1 {
     text-align: justify;
 }
 
-.join-team {
+.covered-sector {
     text-align: center;
 }
 
-.our-team-member {
+.our-covered-sector {
     width: auto;
     display: flex;
     margin: 3%;
 }
 
-#food-manager {
+#medical-support {
     text-align: justify;
     width: 40%;
     margin-left: 2%;
@@ -131,7 +131,7 @@ h1 {
     box-shadow: 20px 30px 35px rgba(82, 30, 30, 0.671);
 }
 
-#finance-manager {
+#mineral-water {
     text-align: justify;
     text-align: left;
     width: 30%;
@@ -142,26 +142,26 @@ h1 {
     box-shadow: 20px 30px 35px rgba(82, 30, 30, 0.671);
 }
 
-#Volunteer {
+#food-supply {
     text-align: justify;
     text-align: left;
     width: 40%;
-    margin-left: 2%;
+    margin-left: 1%;
     margin-right: 2%;
     padding: 25px;
     border-radius: 10px;
     box-shadow: 20px 30px 35px rgba(82, 30, 30, 0.671);
 }
 
+.medical {
+    text-align: center;
+}
+
+.water {
+    text-align: center;
+}
+
 .food {
-    text-align: center;
-}
-
-.finance {
-    text-align: center;
-}
-
-.help {
     text-align: center;
 }
 
@@ -173,7 +173,7 @@ h1 {
 .email-box {
     padding: 20px;
     text-align: center;
-    background-color: antiquewhite;
+    background-color: rgba(182, 148, 104, 0.466);
     width: 40%;
     margin-right: 20%;
     margin-left: 30%;
@@ -197,6 +197,7 @@ h1 {
     background-color: black;
     margin-top: 10px;
     width: 100%;
+
 }
 
 #be-humble {
@@ -208,7 +209,4 @@ h1 {
 
 #do-it {
     color: white;
-
-
-
 }
