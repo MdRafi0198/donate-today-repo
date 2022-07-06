@@ -60,8 +60,10 @@ h1 {
 .other-amount {
     color: darkgray;
     padding-left: 10px;
+    border: none;
 
 }
+
 
 #hr-tag {
     width: 50%;
@@ -84,6 +86,7 @@ h1 {
     padding: 5px;
     margin-left: 3%;
     margin-right: 3%;
+    text-align: justify;
 }
 
 .shelter-for-family {
@@ -93,6 +96,7 @@ h1 {
     padding: 10px;
     margin-left: 3%;
     margin-right: 3%;
+    text-align: justify;
 }
 
 .education-for-family {
@@ -102,6 +106,61 @@ h1 {
     padding: 10px;
     margin-left: 3%;
     margin-right: 3%;
+    text-align: justify;
+}
+
+.join-team {
+    text-align: center;
+}
+
+.our-team-member {
+    width: auto;
+    display: flex;
+    margin: 3%;
+}
+
+#food-manager {
+    text-align: justify;
+    width: 40%;
+    margin-left: 2%;
+    margin-right: 2%;
+    padding: 25px;
+    border-radius: 10px;
+    box-shadow: 20px 30px 35px black;
+}
+
+#finance-manager {
+    text-align: justify;
+    text-align: left;
+    width: 30%;
+    margin-left: 2%;
+    margin-right: 2%;
+    padding: 25px;
+    border-radius: 10px;
+    box-shadow: 20px 30px 35px black;
+}
+
+#Volunteer {
+    text-align: justify;
+    text-align: left;
+    width: 40%;
+    margin-left: 2%;
+    margin-right: 2%;
+    padding: 25px;
+    border-radius: 10px;
+    box-shadow: 10px 20px 25px black;
+}
+
+.food {
+    text-align: center;
+}
+
+.finance {
+    text-align: center;
+}
+
+.help {
+    text-align: center;
 }
 
 .get-update {
