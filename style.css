@@ -22,8 +22,9 @@ h1 {
 .donate-button {
     text-decoration: dotted;
     background-color: orangered;
-    padding: 5px;
+    padding: 12px;
     color: azure;
+
 }
 
 .donate-today {
@@ -77,6 +78,7 @@ h1 {
     width: auto;
     display: flex;
     margin: 5%;
+    padding-top: 20px;
 }
 
 .food-for-family {
@@ -126,7 +128,7 @@ h1 {
     margin-right: 2%;
     padding: 25px;
     border-radius: 10px;
-    box-shadow: 20px 30px 35px black;
+    box-shadow: 20px 30px 35px rgba(82, 30, 30, 0.671);
 }
 
 #finance-manager {
@@ -137,7 +139,7 @@ h1 {
     margin-right: 2%;
     padding: 25px;
     border-radius: 10px;
-    box-shadow: 20px 30px 35px black;
+    box-shadow: 20px 30px 35px rgba(82, 30, 30, 0.671);
 }
 
 #Volunteer {
@@ -148,7 +150,7 @@ h1 {
     margin-right: 2%;
     padding: 25px;
     border-radius: 10px;
-    box-shadow: 10px 20px 25px black;
+    box-shadow: 20px 30px 35px rgba(82, 30, 30, 0.671);
 }
 
 .food {
