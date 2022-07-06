@@ -127,19 +127,27 @@ h1 {
     border: 5px;
     color: white;
     margin-left: -5px;
+    padding-left: 15px;
+    padding-right: 15px;
 }
 
 #footer {
     text-align: center;
     background-color: black;
     margin-top: 10px;
+    width: 100%;
 }
 
 #be-humble {
     color: red;
+    text-align: center;
+    padding-top: 50px;
+
 }
 
 #do-it {
     color: white;
+
+
 
 }
